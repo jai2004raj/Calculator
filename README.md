@@ -1,6 +1,6 @@
 CodSoft internship Level 1(Task-3)
 
-Name: Jairaj a
+Name: Jairaj A
 
 Intern ID: CS25AZ1903
 
@@ -14,7 +14,7 @@ The main/primary purpose of the project is to create a functional and user frien
 
 The features of my calculator of arithmetic operations such as: addition, subtraction, multiplication, division and trigonometric operations functionality. 
 
--> User-Friendly interface: The buttons are clearly well-placed labeled and for main usage. 
+-> User-Friendly interface: The buttons are clearly well-placed labelled and for main usage. 
 
 -> Error Handling: The calculator gracefully handles invalid inputs (e.g., division by zero or malformed expressions). 
 

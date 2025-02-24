@@ -2,7 +2,7 @@ CodSoft internship Level 1(Task-3)
 
 Name: Jairaj a
 
-Inten ID: CS25AZ1903
+Intern ID: CS25AZ1903
 
 Company: CODSOFT
 
